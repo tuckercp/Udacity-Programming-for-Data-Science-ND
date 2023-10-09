@@ -24,4 +24,4 @@ I developed a Python script with pandas that takes raw input from the user and c
 I worked in Git for the previous Python project, creating a repository, intital README.md file, and different branches regarding documentation and refactoring code, eventually pushing all changes to Github. 
 
 ---
-### 🧑‍🎓 [Udacity Certificate](link)
+### 🧑‍🎓 [Udacity Certificate](https://github.com/tuckercp/Udacity-Programming-for-Data-Science-ND/blob/main/Udacity%20PDS%20Certificate.pdf)
