@@ -14,7 +14,7 @@ I generated a series of questions to be answered through SQL queries with the go
 🔑 **Key Learnings:**
 * Learn Python programming fundamentals such as data types and structures, variables, loops, and functions
 
-I developed a Python script with pandas that takes raw input from the user and creates an interactive experience exploring bike sharing data between 3 major US cities. I generated summary statistics based on the appropriate filters applied to the DataFrame. Users also have the option to view raw data
+I developed a Python script using pandas that takes raw input from the user and creates an interactive experience exploring bike sharing data between 3 major US cities. I generated summary statistics based on the appropriate filters applied to the DataFrame. Users are also given the option to view raw data sequentially.
 
 ---
 ### [Project #3 - 🚀 Post your work on Github](https://github.com/tuckercp/Exploring-US-Bike-Share-Data/tree/refactoring)
