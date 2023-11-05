@@ -1,4 +1,4 @@
-## Project #2 - 🍿 Investigate a Movie Rental Database
+## Project #1 - 🍿 Investigate a Movie Rental Database
 
 ### Project Summary
 This project involves writing and executing SQL queries to explore the Sakila Movie Rental database. The SQL queries will be used to gain a deeper understanding of the company and their customer base, i.e. movie-watching patterns across customer groups, store performance comparisons, etc. The project submission will consist of a slide presentation containing data visualizations derived from the output of the queries.
